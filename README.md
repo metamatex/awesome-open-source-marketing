@@ -6,6 +6,7 @@
 - [ProductHunt](https://producthunt.com/)
 - [reddit](https://reddit.com/)
 - [LinkedIn](https://linkedin.com/)
+    [post inspector](https://www.linkedin.com/post-inspector)
 - [Slack](https://slack.com/)
     - [slofile.com](https://slofile.com/) - find communities and list yours
 - [spectrum](https://spectrum.chat/explore)
@@ -75,3 +76,7 @@
     - [React + Graphql español](https://www.facebook.com/groups/1648862132064990/)
 - [Discord](https://discord.com)
     - [join.reactiflux.com](http://join.reactiflux.com/) - join #graphql
+- [LinkedIn](https://linkedin.com)
+    - [GraphQL User Group](https://www.linkedin.com/groups/7075066)
+
+
