@@ -16,4 +16,5 @@
 
 ## graphql
 
-[https://github.com/APIs-guru/graphql-apis](github.com/APIs-guru/graphql-apis) - list your grapqhQl api
+- [github.com/APIs-guru/graphql-apis](github.com/APIs-guru/graphql-apis) - list your grapqhql api
+- [github.com/chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - list your graphql project
