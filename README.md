@@ -23,6 +23,11 @@
     - [slofile.com](https://slofile.com/) find grapqhl slack communities
     - [graphql.slack.com](https://graphql.slack.com/messages/general/) - get your invite [here](https://graphql-slack.herokuapp.com/)
 - [Facebook](https://facebook.com)
-    - [reactjs.co](https://www.facebook.com/groups/reactjs.co/)
-    - [graphql.community](https://www.facebook.com/groups/graphql.community/)
-
+    - [ReactJS, React Native, GraphQL, Relay](https://www.facebook.com/groups/reactjs.co/)
+    - [GraphQL](https://www.facebook.com/groups/graphql.community/)
+    - [JavaScript, TypeScript, React, Vue, Angular, GraphQL, Node Devs](https://www.facebook.com/groups/javascriptfeed/)
+    - [GraphQL Brasil](https://www.facebook.com/groups/767545796733368/)
+    - [GraphQL Thailand](https://www.facebook.com/groups/graphqlthailand/)
+    - [GraphQL Taiwan](https://www.facebook.com/groups/graphql.tw/)
+    - [GraphQL Korea](https://www.facebook.com/groups/graphql.kr/)
+    - [React + Graphql español](https://www.facebook.com/groups/1648862132064990/)
