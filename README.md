@@ -6,7 +6,7 @@
 - [ProductHunt](https://producthunt.com/)
 - [reddit](https://reddit.com/)
 - [LinkedIn](https://linkedin.com/)
-- [Slack](https://slack.com/) - find slack communities here [slofile.com](https://slofile.com/)
+- [Slack](https://slack.com/)
     - [slofile.com](https://slofile.com/) - find communities and list yours
 - [spectrum](https://spectrum.chat/explore)
 - [Twitter](https://twitter.com)
