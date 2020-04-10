@@ -18,3 +18,6 @@
 
 - [github.com/APIs-guru/graphql-apis](github.com/APIs-guru/graphql-apis) - list your grapqhql api
 - [github.com/chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - list your graphql project
+- [Twitter](https://twitter.com) - use the #grapqhl hashtag
+- [Slack](https://slack.com/) - find grapqhl slack communities here [slofile.com](https://slofile.com/)
+- [graphql.slack.com](https://graphql.slack.com/messages/general/) - get your invite [here](https://graphql-slack.herokuapp.com/)
