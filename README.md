@@ -6,7 +6,7 @@
 - [ProductHunt](https://producthunt.com/)
 - [reddit](https://reddit.com/)
 - [LinkedIn](https://linkedin.com/)
-    [post inspector](https://www.linkedin.com/post-inspector)
+    - [post inspector](https://www.linkedin.com/post-inspector)
 - [Slack](https://slack.com/)
     - [slofile.com](https://slofile.com/) - find communities and list yours
 - [spectrum](https://spectrum.chat/explore)
