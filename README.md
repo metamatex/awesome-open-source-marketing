@@ -10,6 +10,33 @@
     - [slofile.com](https://slofile.com/) - find communities and list yours
 - [spectrum](https://spectrum.chat/explore)
 - [Twitter](https://twitter.com)
+- [BetaPage](https://betapage.co/)
+- [reddit](https://reddit.com)
+    - [r/programming](https://www.reddit.com/r/programming/)
+    - [r/webdev](https://www.reddit.com/r/webdev/)
+    - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+    - [r/coding](https://www.reddit.com/r/coding/)
+    - [r/SideProject](https://www.reddit.com/r/SideProject/)
+    - [r/selfhosted](https://www.reddit.com/r/selfhosted/)
+    - [r/opensource](https://www.reddit.com/r/opensource/)
+    - [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
+
+## articles
+
+- [HackerNews](https://news.ycombinator.com)
+    - [How Do Developers Promote Open Source Projects? (arxiv.org)](https://news.ycombinator.com/item?id=20977753)
+    - [Ask HN: How can I promote my open-source project?](https://news.ycombinator.com/item?id=14530053)
+    - [Ask HN: What are the best ways to promote any opensource project?](https://news.ycombinator.com/item?id=12716913)
+    - [Ask HN: How much time do you spend on “marketing” your open source projects?](https://news.ycombinator.com/item?id=15652852)
+    - [Open Source Doesn't Just Market Itself (zachholman.com)](https://news.ycombinator.com/item?id=2460182)
+    - [Treat Open Source Like a Startup (hacks.mozilla.org)](https://news.ycombinator.com/item?id=7784211)
+    - [Ask HN: Do developers dislike marketing their own projects?](https://news.ycombinator.com/item?id=5266865)
+    - [Why your open source project needs marketing help (opensource.com)](https://news.ycombinator.com/item?id=12267601)
+
+- [github.com](github)
+    - [https://github.com/zenika-open-source/promote-open-source-project](zenika-open-source/promote-open-source-project)
+    - [https://github.com/rdp/open-source-how-to-popularize-your-project](rdp/open-source-how-to-popularize-your-project)
+    - [https://github.com/adamwulf/app-launch-guide](adamwulf/app-launch-guide)
 
 ## apis
 
@@ -37,7 +64,6 @@
     - [r/vuejs](https://www.reddit.com/r/vuejs/)
     - [r/javascript](https://www.reddit.com/r/javascript/)
 - [Slack](https://slack.com/)
-    - [slofile.com](https://slofile.com/) find grapqhl slack communities
     - [graphql.slack.com](https://graphql.slack.com/messages/general/) - get your invite [here](https://graphql-slack.herokuapp.com/)
 - [Facebook](https://facebook.com)
     - [ReactJS, React Native, GraphQL, Relay](https://www.facebook.com/groups/reactjs.co/)
