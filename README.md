@@ -32,7 +32,6 @@
     - [Treat Open Source Like a Startup (hacks.mozilla.org)](https://news.ycombinator.com/item?id=7784211)
     - [Ask HN: Do developers dislike marketing their own projects?](https://news.ycombinator.com/item?id=5266865)
     - [Why your open source project needs marketing help (opensource.com)](https://news.ycombinator.com/item?id=12267601)
-
 - [github.com](github)
     - [https://github.com/zenika-open-source/promote-open-source-project](zenika-open-source/promote-open-source-project)
     - [https://github.com/rdp/open-source-how-to-popularize-your-project](rdp/open-source-how-to-popularize-your-project)
