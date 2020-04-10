@@ -21,3 +21,7 @@
 - [Twitter](https://twitter.com) - use the #grapqhl hashtag
 - [Slack](https://slack.com/) - find grapqhl slack communities here [slofile.com](https://slofile.com/)
 - [graphql.slack.com](https://graphql.slack.com/messages/general/) - get your invite [here](https://graphql-slack.herokuapp.com/)
+- [Facebook](https://facebook.com)
+    - [reactjs.co](https://www.facebook.com/groups/reactjs.co/))
+    - [graphql.community](https://www.facebook.com/groups/graphql.community/
+
