@@ -21,6 +21,9 @@
     - [r/selfhosted](https://www.reddit.com/r/selfhosted/)
     - [r/opensource](https://www.reddit.com/r/opensource/)
     - [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
+    - [r/INAT](https://www.reddit.com/r/INAT/) - I Need a Team: Developers Collaboration
+- [redsand.io](https://redsand.io/) - Find partners for software projects
+- [indiehackers.com](https://www.indiehackers.com/)
 
 ## lists
 
