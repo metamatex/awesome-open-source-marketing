@@ -1,6 +1,6 @@
 # awesome open-source marketing
 
-## community
+## communities
 
 - [HackerNews](https://news.ycombinator.com)
 - [ProductHunt](https://producthunt.com/)
@@ -21,6 +21,14 @@
     - [r/selfhosted](https://www.reddit.com/r/selfhosted/)
     - [r/opensource](https://www.reddit.com/r/opensource/)
     - [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
+
+## lists
+
+- [OPENSOURCE Builders](https://opensource.builders/)
+
+## newsletters
+
+- [Open Source Weekly](https://opensourceweekly.org/)
 
 ## articles
 
