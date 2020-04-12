@@ -37,6 +37,7 @@ If you want to contribute to this list, please open a pull request
 - [github.com](github.com)
     - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
     - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+    - [open-source-ideas/open-source-ideas](https://github.com/open-source-ideas/open-source-ideas)
 
 ## newsletters
 
