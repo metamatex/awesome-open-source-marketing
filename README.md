@@ -24,10 +24,15 @@
     - [r/INAT](https://www.reddit.com/r/INAT/) - I Need a Team: Developers Collaboration
 - [redsand.io](https://redsand.io/) - Find partners for software projects
 - [indiehackers.com](https://www.indiehackers.com/)
+- [sideprojectors.com](https://www.sideprojectors.com/)
+- [codetriage.com](https://www.codetriage.com/)
 
 ## lists
 
 - [OPENSOURCE Builders](https://opensource.builders/)
+- [github.com](github.com)
+    - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)
+    - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## newsletters
 
@@ -44,10 +49,16 @@
     - [Treat Open Source Like a Startup (hacks.mozilla.org)](https://news.ycombinator.com/item?id=7784211)
     - [Ask HN: Do developers dislike marketing their own projects?](https://news.ycombinator.com/item?id=5266865)
     - [Why your open source project needs marketing help (opensource.com)](https://news.ycombinator.com/item?id=12267601)
-- [github.com](github)
-    - [https://github.com/zenika-open-source/promote-open-source-project](zenika-open-source/promote-open-source-project)
-    - [https://github.com/rdp/open-source-how-to-popularize-your-project](rdp/open-source-how-to-popularize-your-project)
-    - [https://github.com/adamwulf/app-launch-guide](adamwulf/app-launch-guide)
+- [github.com](github.com)
+    - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project)
+    - [rdp/open-source-how-to-popularize-your-project](https://github.com/rdp/open-source-how-to-popularize-your-project)
+    - [adamwulf/app-launch-guide](https://github.com/adamwulf/app-launch-guide)
+- [Finding users (opensource.guide)](https://opensource.guide/finding-users/)
+- [How to make your open source project thrive with (sourcegraph.com)](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov)
+- [Marketing for open-source projects (radek.io)](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+- [How to spread the word about your code (hacks.mozilla.org)](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+- [How to promote your open-source project (linux-audit.com)](https://linux-audit.com/how-to-promote-your-open-source-project/)
+- [Setting an open-source strategy (linuxfoundation.org)](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
 
 ## apis
 
