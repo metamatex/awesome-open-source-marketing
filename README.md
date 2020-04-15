@@ -65,6 +65,16 @@ If you want to contribute to this list, please open a pull request
 - [How to promote your open-source project (linux-audit.com)](https://linux-audit.com/how-to-promote-your-open-source-project/)
 - [Setting an open-source strategy (linuxfoundation.org)](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/)
 
+### activitypub
+
+- Forums
+    - [SocialHub](https://socialhub.activitypub.rocks/)
+    - [talk.feneas.org](https://talk.feneas.org) - has an activitypub category
+- [reddit](https://reddit.com/)
+    - [r/ActivityPub](https://www.reddit.com/r/ActivityPub/)
+- [github.com](github.com)
+    - [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub)
+
 ## apis
 
 - [github.com](github)
@@ -105,5 +115,17 @@ If you want to contribute to this list, please open a pull request
     - [join.reactiflux.com](http://join.reactiflux.com/) - join #graphql
 - [LinkedIn](https://linkedin.com)
     - [GraphQL User Group](https://www.linkedin.com/groups/7075066)
+
+### scraping
+
+- [github.com](github)
+    - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
+    - [duyetdev/awesome-web-scraper](https://github.com/duyetdev/awesome-web-scraper)
+- [reddit](https://reddit.com/)
+    - [r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
+    - [r/webscraping](https://www.reddit.com/r/webscraping/)
+    - [r/scraping](https://www.reddit.com/r/scraping/)
+    - [r/datasets](https://www.reddit.com/r/datasets/)
+
 
 
