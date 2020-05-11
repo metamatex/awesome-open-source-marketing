@@ -90,7 +90,7 @@ If you want to contribute to this list, please open a pull request
 ## graphql
 
 - [github.com](github)
-    - [APIs-guru/graphql-apis](github.com/APIs-guru/graphql-apis) - list your grapqhql api
+    - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - list your grapqhql api
     - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - list your graphql project
 - [IRC](https://webchat.freenode.net/)
     - [freenode](https://webchat.freenode.net/) - join the #graphql channel
