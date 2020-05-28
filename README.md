@@ -9,6 +9,7 @@ If you want to contribute to this list, please open a pull request
 - [HackerNews](https://news.ycombinator.com)
 - [ProductHunt](https://producthunt.com/)
 - [reddit](https://reddit.com/)
+- [lobste.rs](https://lobste.rs/)
 - [LinkedIn](https://linkedin.com/)
     - [post inspector](https://www.linkedin.com/post-inspector)
 - [Slack](https://slack.com/)
